@@ -10,10 +10,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    '123.123.123.123',
     '89.169.164.242',
     '127.0.0.1',
-    'twogoddkittygramm.hopto.org'
+    'taskidlyakotikov.hopto.org'
 ]
 
 
